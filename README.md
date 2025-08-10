@@ -1,6 +1,6 @@
 ## How to use? ##
 
-If you dowdload it, please create a folder and rename it as 'songs'.
+If you download it, please create a folder and rename it as 'songs'.
 
 Next, open the folder, create a file and rename it as 'play.txt'.
 
